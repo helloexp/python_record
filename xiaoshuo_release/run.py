@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*- 
 
+# 版本v1.0
+
 from bs4 import BeautifulSoup
 import requests
 import re
